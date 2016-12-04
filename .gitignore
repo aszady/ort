@@ -1,0 +1,8 @@
+ort
+CMakeCache.txt
+CMakeFiles/
+Makefile
+*.cmake
+demo.json
+cppjson/
+gogui_core/
